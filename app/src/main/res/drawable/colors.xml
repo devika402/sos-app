@@ -1,0 +1,17 @@
+<resources>
+
+    <color name="primary">#1F3B63</color>
+    <color name="primaryDark">#162E4D</color>
+    <color name="purple">#6A53B5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="light_bg">#F5F7FB</color>
+    <color name="card_bg">#FFFFFF</color>
+
+    <color name="light_box">#F3F5FA</color>
+    <color name="border">#DCE3EE</color>
+
+    <color name="danger_bg">#FFF3F5</color>
+    <color name="danger_border">#E9B9C6</color>
+
+</resources>

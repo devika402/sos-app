@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Base Theme -->
+    <style name="Theme.SOSApp" parent="Theme.Material3.Light.NoActionBar">
+
+        <!-- Primary Colors -->
+        <item name="colorPrimary">#1F3B63</item>
+        <item name="colorPrimaryVariant">#162E4D</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+
+        <!-- Secondary -->
+        <item name="colorSecondary">#6A53B5</item>
+        <item name="colorOnSecondary">#FFFFFF</item>
+
+        <!-- Background -->
+        <item name="android:colorBackground">#F5F7FB</item>
+
+        <!-- Status bar -->
+        <item name="android:statusBarColor">#1F3B63</item>
+
+        <!-- Disable action bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+    </style>
+
+</resources>

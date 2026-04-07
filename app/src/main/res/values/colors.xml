@@ -1,0 +1,28 @@
+<resources>
+    <color name="light_bg">#F5F7FA</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Soft SOS card -->
+    <color name="danger_bg">#FFF1F1</color>
+    <color name="danger_border">#E57373</color>
+
+    <!-- Card -->
+    <color name="card_bg">#FFFFFF</color>
+
+    <!-- 🔵 HEADER (Blue Gradient like screenshot) -->
+    <color name="header_start">#1E3C72</color>
+    <color name="header_end">#2A5298</color>
+
+    <!-- 🟣 BUTTON (Purple Gradient like screenshot) -->
+    <color name="button_start">#6A5ACD</color>
+    <color name="button_end">#7B68EE</color>
+
+    <!-- Light boxes -->
+    <color name="light_box_bg">#F8F9FA</color>
+    <color name="light_box_border">#DADCE0</color>
+
+    <!-- Text -->
+    <color name="text_dark">#333333</color>
+</resources>
